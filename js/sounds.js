@@ -4,7 +4,7 @@
 window.onload = function() {
     sounds = document.getElementsByClassName("click-sound");
     document.getElementById("macosStartupSound").play();
-    document.body.addEventListener("click", function() { getRandomMacOsSound().play(); }, true);
+    document.body.addEventListener("click", function() { getRandomMacOsSound().play(); }, false);
 }
 
 var sounds = [];
