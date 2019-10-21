@@ -24,7 +24,7 @@ _Disclaimer! This is a project for fun! I do not expect a professional or high s
 ## About me
 
 - Unemployed Software Developer soon starting to look for jobs in Gothenburg Sweden.
-- 26 years old
+- 2633 years olds
 - Studied computer science at Linnaeus University Kalmar Sweden
 - Worked as a professional software developer for almost 3 years.
 - [Twitter](https://twitter.com/Benny_Carlsson)
