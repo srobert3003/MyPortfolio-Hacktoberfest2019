@@ -46,7 +46,10 @@ function play() {
     name1.innerHTML = players["X"] + " (X)";
     name2.innerHTML = players["O"] + " (O)";
     sc1.innerHTML = sc2.innerHTML = "0";
-
+    //Player's scores id and class
+    sc1.id = "playerXScore";
+    sc2.id = "playerOScore";
+    sc1.className = sc2.className = "score";
     //Adding all to the DOM
     let body = document.getElementsByTagName("body")[0];
     let tbscElements = [name1, sc1, name2, sc2];
